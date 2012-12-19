@@ -8,6 +8,11 @@
         "issues": "https://github.com/CrazyAwesomeCompany/zf-cli/issues",
         "source": "https://github.com/CrazyAwesomeCompany/zf-cli/issues"
     },
+    "autoload": {
+        "psr-0": {
+            "CAC\\Component\\Cli": "src/"
+        }
+    },
     "require": {
 
     },

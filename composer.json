@@ -1,0 +1,23 @@
+{
+    "name": "cac/zf-cli",
+    "description": "CACLI - Command Line Programs and Daemons",
+    "keywords": ["zend framework", "cli", "daemon"],
+    "homepage": "http://www.crazyawesomecompany.com",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/CrazyAwesomeCompany/zf-cli/issues",
+        "source": "https://github.com/CrazyAwesomeCompany/zf-cli/issues"
+    },
+    "require": {
+
+    },
+    "authors": [
+        {
+            "name": "Nick de Groot",
+            "email": "nick@crazyawesomecompany.com"
+        }
+    ],
+    "bin": [
+        "bin/cacli.php"
+    ]
+}

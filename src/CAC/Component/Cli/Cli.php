@@ -11,7 +11,7 @@
 
 namespace CAC\Component\Cli;
 
-use CAC\Cli\Daemon\Util;
+use CAC\Component\Cli\Daemon\Util;
 
 /**
  * Class for running command line programs with the Zend Framework available
